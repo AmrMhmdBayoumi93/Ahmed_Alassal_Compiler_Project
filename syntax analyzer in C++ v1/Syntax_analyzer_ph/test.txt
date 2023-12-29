@@ -1,0 +1,7 @@
+cin>>x;
+cout<<X<<endl;
+if (x<3){
+cout<<" x is less than "<<endl;
+}else{
+	cout<<"x is graeter"<<endl;
+}

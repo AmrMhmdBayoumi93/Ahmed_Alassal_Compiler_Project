@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1703851575 source:d:\„« —Ì«· —«»⁄… cs  —„ «Ê·\„« Ì—Ì«· ›—ﬁ… —«»⁄…   —„ «Ê· „‰ «·„ﬂ »…\4cs first term projects\khcompilerproject\syntax analyzer in c++ v1\syntax_analyzer_ph\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<string>
+
